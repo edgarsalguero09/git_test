@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: "Arial";
+    color: red;
+}
+#container {
+    color: gray;
+    width: 70%
+}
+#container p {
+    color: gray;
+    width: 70%;
+    font-size: 20px;
+}
